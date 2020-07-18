@@ -1,0 +1,76 @@
+html,body{
+	  background: url(https://www.wallpapers4u.org/wp-content/uploads/barcelona_barca_fc_fc_barcelona_sport_football_mascot_band_messi_94153_1920x1080.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+li {
+		list-style: none;
+        
+
+	}
+
+h1{
+    cursor: text;
+    text-align: left;
+    
+   
+
+	color: #AA4139;
+	-webkit-text-stroke: 0.3px black;
+	font-size: 30px;
+	font-variant: small-caps;
+
+
+	}
+p{ line-height: 25px;
+	font-weight: bold;
+
+	
+	font-size: 20px;
+	font-family: 'Abel', sans-serif;
+	-webkit-text-stroke: 0.05px white;
+
+}
+span{
+	font-size:30px;
+	color: #0D41EC;
+	-webkit-text-stroke: 0px white;
+	cursor: pointer;
+}
+
+img{
+	float: left;
+}
+footer{
+	clear: both;
+	text-align: center;
+}
+img{
+	
+	border-color: #046FC1;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 50%;
+
+}
+
+
+.sancho,.neymar,.mpabbe,.pogba,.bruno,.odegaard,.arnold,.andrew,.alaba{
+
+	transition: all 1s;
+	display: inline-block;
+	margin: 0px 10px;
+	
+
+
+
+}
+
+.sancho:hover ,.neymar:hover ,.mpabbe:hover ,.pogba:hover ,.bruno:hover,.odegaard:hover,.arnold:hover ,.andrew:hover,.alaba:hover{
+	
+	transform: scale(1.2);
+}
